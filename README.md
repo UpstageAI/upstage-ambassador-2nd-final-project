@@ -1,6 +1,6 @@
-# Project Submission Repository
+# Upstage Ambassador 2nd Final Project
 
-이 저장소는 교육 프로그램의 팀별 최종 프로젝트 제출을 위한 repository입니다.
+이 저장소는 **업스테이지 앰버서더 2기 최종 프로젝트** 제출을 위한 repository입니다.
 
 각 팀은 `projects/` 아래에 자신의 팀 폴더를 만들고, Pull Request(PR)로 제출합니다. 프로젝트 내부 구조와 기술 스택은 자유롭게 구성할 수 있지만, 제출 폴더명과 기본 설명 파일은 아래 규칙을 따라주세요.
 
@@ -128,15 +128,15 @@ GitHub 페이지 우측 상단의 **Fork** 버튼을 클릭하면 자신의 GitH
 ### Step 2. Fork한 저장소를 로컬에 Clone 하세요
 
 ```bash
-git clone https://github.com/<내-GitHub-아이디>/<이-저장소-이름>.git
-cd <이-저장소-이름>
+git clone https://github.com/<내-GitHub-아이디>/upstage-ambassador-2nd-final-project.git
+cd upstage-ambassador-2nd-final-project
 ```
 
 예시:
 
 ```bash
-git clone https://github.com/my-github-id/project-submission-repo.git
-cd project-submission-repo
+git clone https://github.com/my-github-id/upstage-ambassador-2nd-final-project.git
+cd upstage-ambassador-2nd-final-project
 ```
 
 ### Step 3. 팀 폴더를 만들고 프로젝트를 넣으세요
